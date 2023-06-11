@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sytemap: https://github.com/Kuzichkina-Soffia/syte.github.io/blob/main/Sitemap.xml
